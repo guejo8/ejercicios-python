@@ -25,7 +25,7 @@ else:
 x = 5
 if x > 0:
     print("x es positivo")
-        print("x es mayor que cero")
+    print("x es mayor que cero")
 else:
     print("x es negativo")
 
@@ -76,3 +76,4 @@ def nombres():
             print('Hay {} estudiantes llamados {}'.format(ocurrencias_nombre[k], k))
 
 nombres()
+
